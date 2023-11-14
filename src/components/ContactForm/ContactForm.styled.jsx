@@ -9,10 +9,7 @@ export const StyledForm = styled(Form)`
     flex-direction: column;
     width: 400px;
     padding: 15px 10px;
-    
-    background-color: ${p => p.theme.colors.bcg};
-    border: 3px solid ${p => p.theme.colors.border};
-    border-radius: 6px;
+   
 `
 
 export const Label = styled.label`
