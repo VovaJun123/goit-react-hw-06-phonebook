@@ -7,9 +7,7 @@ export const List = styled.ul`
     flex-direction: column;
     width: 400px;
     padding: 10px;
-    border: 3px solid ${p => p.theme.colors.border};
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 0.6);
+   
 `
 
 export const ListItem = styled.li`
@@ -20,9 +18,7 @@ export const ListItem = styled.li`
   font-weight: 700;
   padding: 10px;
   margin-bottom: 5px;
-  background-color: ${p => p.theme.colors.bcg};
-  border: 2px solid ${p => p.theme.colors.border};
-  border-radius: 6px;
+ color: white;
 `
 
 export const Btn = styled.button`
