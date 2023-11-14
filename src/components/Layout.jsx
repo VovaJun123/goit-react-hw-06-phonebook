@@ -11,17 +11,17 @@ export const Layout = styled.div`
 export const Title = styled.h1`
     font-size: ${p => p.theme.fontSizes.l};
     font-weight: 800;
-    color:${p => p.theme.colors.primary};
-    text-shadow: ${p => p.theme.shadows.textShadow};
+   color: white;
+  
     margin-bottom: 25px;
 `
 
 export const SubTitle = styled.h2`
     font-size: 42px;
     font-weight: 800;
-    color:${p => p.theme.colors.primary};
+   color: white;
 
-    text-shadow: ${p => p.theme.shadows.textShadow};
+ 
 
     margin-bottom: 25px;
 `
