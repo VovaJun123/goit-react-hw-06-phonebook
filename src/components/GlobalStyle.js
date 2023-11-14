@@ -11,10 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   min-height: 100vh;
-  background-color: #4B0082;
-  background-image: url('https://fon.litrelax.ru/uploads/posts/2023-02/1676787134_foni-club-p-oboi-sovi-na-pk-12.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+ background-color: #000;
 }
 
 code {
